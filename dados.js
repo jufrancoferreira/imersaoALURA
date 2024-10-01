@@ -21,6 +21,11 @@ let dados = [
       "link": "https://pt.wikipedia.org/wiki/Macris_Carneiro" 
     },
     {
+    "titulo": "Rosamaria Montibeller",
+    "descricao": "Rosamaria é uma atacante de ponta conhecida por sua potência e versatilidade. Com uma impulsão incrível, ela é capaz de realizar ataques fulminantes e surpreender as adversárias. Sua habilidade de jogar tanto na direita quanto na esquerda a torna uma jogadora completa e difícil de marcar. Além de suas qualidades técnicas, Rosamaria é conhecida por sua alegria e positividade dentro de quadra.",
+    "link": "https://pt.wikipedia.org/wiki/Rosamaria_Montibeller"
+    },
+    {
       "titulo": "Thaísa Daher",
       "descricao": "Thaísa Daher de Menezes é uma das maiores jogadoras de vôlei brasileiras de todos os tempos, atuando como central. Bicampeã olímpica, com sua altura de 1,96m e um bloqueio poderoso, ela se tornou uma peça fundamental na seleção brasileira e em diversos clubes ao redor do mundo.",
       "link": "https://pt.wikipedia.org/wiki/Tha%C3%ADsa_Daher" 
